@@ -4,6 +4,9 @@ p {
 
 h1 {
     font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 h2{
@@ -18,4 +21,9 @@ img {
 
 body{
     margin: 50px;
+}
+
+.introduction {
+    font-style: italic;
+    color: purple;
 }
