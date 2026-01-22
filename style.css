@@ -1,0 +1,21 @@
+p {
+    color: blue;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+h2{
+    font-size: large;
+    color: green;
+    font-weight: 10000;
+}
+
+img {
+    padding: 100px;
+}
+
+body{
+    margin: 50px;
+}
